@@ -1,0 +1,6 @@
+There's a UDP request for a PNG file,
+just grab the png but it's Malformed
+U should assemble the malformed PNG
+according to the chunk order, can be
+found in the Request. took a long time
+and The flag is in the Image

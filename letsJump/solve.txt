@@ -1,0 +1,7 @@
+given a Binary, and we should jump to win Function
+and the win function takes 2 arguments, the first
+argument should be "1", and the others should be a
+pointer that points to the "Hewhewbrew" strings
+address.
+after that, just ret2 win function
+FLAG :: COMPFEST14{jump_and_play_with_ret_gadget}

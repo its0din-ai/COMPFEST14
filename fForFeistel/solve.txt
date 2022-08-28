@@ -1,0 +1,6 @@
+Feistel encryption is unique
+they use the same key for 
+encrypt and decrypt. But
+the key for Decryption is on
+the reversed order, just reverse
+the Key, and u got the FLAG

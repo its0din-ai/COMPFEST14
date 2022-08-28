@@ -1,0 +1,8 @@
+the encrypted data is Stored in the Binary, just grab the data
+and do the reverse. since the encryption is using:
+XOR with 32 -> encode to Base64 -> Add the char with 128
+
+and we will reversed it using :
+Sub the char with 128 -> decode from Base64 -> XOR with 32
+.
+and Done, u got the FLAG

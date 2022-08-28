@@ -1,0 +1,2 @@
+Just analyze the strace output log
+and start assemble the Flag

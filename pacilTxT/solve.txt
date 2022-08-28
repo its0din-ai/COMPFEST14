@@ -1,0 +1,14 @@
+Given a Web that vuln to SQL Injection
+in the INSERT statements.
+we should use the content form to use it
+as Query. and the Title is stripped to 20
+char long. so the 20's character will be \
+so the payload is ::
+title : 1234567890123456789'
+and we can control the Content, and just
+pass the SQL Query to retrive the FLAG
+content : , (select content from paciltxt_post as p limit 1)) --
+
+nb: put space on the last char, after sql comments
+
+FLAG : COMPFEST14{k3teLiti4n_4daLAh_kUnTjh1_faabc736c3}

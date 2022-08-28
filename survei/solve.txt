@@ -1,0 +1,4 @@
+Given a Binary that read flag and give it to Global Variable
+and there's a menu that read an Address.
+Because there's no PIE and NX enabled, we can just 
+give the Address of the global variable and u got the FLAG

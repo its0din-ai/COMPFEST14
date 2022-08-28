@@ -1,0 +1,7 @@
+Reverse the binary, it says that we should
+give Keys in this format "AAAA-BBBB-CCCC-DDDD-EEEE"
+and the permutations of it, like "EEEE-AAAA-BBBB-CCCC-DDDD"
+and so on until the permutation if over. the total keys is
+100 Keys
+
+FLAG :: COMPFEST14{cbf3d5724e58a8632008157c752e2ca0c1981a22307aa3cdc02aaf9ed173c285}

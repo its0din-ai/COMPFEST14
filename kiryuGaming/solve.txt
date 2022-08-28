@@ -1,0 +1,4 @@
+the FLAG is hidden in the plainsight
+but we can't see because the color is
+same as the background. and we can solve it
+using RGB shift or just change the HUE color

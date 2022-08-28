@@ -1,0 +1,4 @@
+there's just a Modified Traditional Cipher
+the first 20bytes is Caesar Cipher, and then
+there's a Bacon's Cipher, then Columnar
+Transposition, and the last byte is Vigenere Cipher

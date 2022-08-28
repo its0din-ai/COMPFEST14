@@ -1,0 +1,8 @@
+There's a WEB for donation, to retrive the FLAG
+u should donate 50 Transport Ventilators only
+use 1.000.000 Money, and the things itself is
+326.000.000 
+Solve using parseINT bug on JS, use exponent value
+to break the Price's INT and make it as Strings to bugging the
+Value.
+payload :: "50e13"

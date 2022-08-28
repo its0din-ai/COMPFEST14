@@ -1,0 +1,6 @@
+given an Encrypted message and the PublicKey
+extract the exponent and Modulo from the public key
+after that we can find the factor of primes in factordb
+because the result is more than 2 (p and q) we can assume
+this is a MultiPrime RSA. just grab all of the p and q pairs
+and decrypt it

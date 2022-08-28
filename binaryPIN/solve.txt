@@ -1,0 +1,7 @@
+Should bruteforcing to solve this Question
+the probability is 1 / 2**9, which is very
+hard to do it manually. BUT, i'm very
+lucky. So, i've done this Manually, and
+the PIN is :: 010110100
+the flag is ::
+COMPFEST14{bRutefoRc3_1s_e4zY_Af_6965d74c2e}
